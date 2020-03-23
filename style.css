@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
+
+}
+article{
+    margin: 50px auto;
+    width: 277px;
+    height: 604px;
+    background-color: #fff;
+    border-radius: 37px;
+    padding-left: 22.5px;
+    padding-right: 22.5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 0 0 60px #DCDBDB;
+}
+article .title1{
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+article .textgrey{
+    margin-top: 0;
+    padding-left: 10px;
+    padding-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    word-spacing: 4px;
+    line-height: 20px;
+    color: #828282;
+}
+article .sec{
+    width: inherit;
+    height: 277px;
+    background: #F2F2F2;
+    border-radius: 28px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+article .icons1{
+    margin-top: 80px;
+    margin-left: 25px;
+    width: 227px;
+    display: flex;
+    justify-content: space-around;
+}
+article .sec2{
+    margin-top: 60px;
+    width: 243px;
+    height: 53px;
+    background: #F2F2F2;
+    border-radius: 20px 20px 0px 0px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+article .icons2{
+    margin: 5px;
+    margin-left: 11.5px;
+    width: 220;
+    display: flex;
+    justify-content: space-between;
+}
+article section .title2{
+    padding-left: 20px;
+    padding-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.1em;
+    color: #5C5C77;
+
+}
+article section .textg{
+    margin-top: 0;
+    padding-left: 20px;
+    padding-right: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 13px;
+    word-spacing: 4px;
+    line-height: 20px;
+    color: #828282;
+}
+article section .read{
+    text-decoration: none;
+    color: #5cf;
+    padding-left: 20px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.fa-facebook-square{
+    color: #33a;
+}
+.fa-twitter-square{
+    color: #2af;
+}
+.fa-youtube-square{
+    color:#f22;
+}
+.fa-list-alt{
+    color: #E5E5E5;
+}
+.fa-list-alt:hover{
+    color: #2af;
+}
+.fa-search{
+    color: #E5E5E5;
+}
+.fa-search:hover{
+    color: #2af;
+}
+.fa-edit{
+    color: #E5E5E5;
+}
+.fa-edit:hover{
+    color: #2af;
+}
